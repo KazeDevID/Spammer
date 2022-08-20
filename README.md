@@ -11,7 +11,7 @@ pkg install nano ruby
 pip install request
 pip install colorama
 termux-setup-storage
-git clone https://github.com/KazeDevID/Spam
-cd Spam
+git clone https://github.com/KazeDevID/Spammer
+cd Spammer
 python spam.py
 </code></pre>
